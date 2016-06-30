@@ -80,7 +80,7 @@
 
 6.3 The Executive Board will establish and maintain the Rules for governing the Party and the selection of Candidates for election and for the conduct of meetings.
 
-6.4 The Executive Board may institute a postal ballot of Party members for any matter of business that would ordinarily require the convening of a General Meeting of the Party.
+6.4 The Executive Board may institute a ballot of Party members for any matter of business that would ordinarily require the convening of a General Meeting of the Party.
 
 6.5 The Executive Board will elect a Chair at each Biennial General Meeting or in the event of a vacancy for the post.
 
