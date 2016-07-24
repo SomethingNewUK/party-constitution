@@ -46,7 +46,7 @@
 
 ## 4 Membership
 
-4.1 Membership is open to UK citizens and resident foreign nationals who share its aims and who are not members of any organisation of which the Executive Board has declared is incompatible with membership of the Party.
+4.1 Membership is open to individuals (whether UK citizens or not) who share its aims and who are not members of any organisation of which the Executive Board has declared is incompatible with membership of the Party.
 
 4.2 Members are not required to pay a subscription. 
 
