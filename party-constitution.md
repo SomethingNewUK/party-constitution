@@ -52,7 +52,7 @@
 
 4.3 Members shall accept the Party's constitution and rules made in accordance with this constitution and do nothing to undermine the reputation of the Party or to bring the Party into public disrepute. Nor shall they act in a manner intended to cause, or actually causing, damage to the Party's interests including by breaching confidentiality, or any Laws with which the Party is required to comply, including those relating to electoral administration, political party administration or data protection.
 
-4.4 Members shall be entitled to vote in all relevant internal Party elections.
+4.4 Members who are UK citizens or residents shall be entitled to vote in all relevant internal Party elections. Members from outside the UK are not entitled to vote.
 
 ## 5 The Biennial General Meeting
 
