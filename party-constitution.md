@@ -58,9 +58,13 @@
 
 5.1 The Party shall hold a Biennial General Meeting at places and times decided by the Executive Board. Only Party members may vote at the Biennial General Meeting.
 
-5.2 The Biennial General Meeting will be receive reports from the three national officers (Party Leader, Treasurer and Nominating Officer); elect members to the Executive Board (who will serve until the next Biennial General Meeting) and elect from the membership of the Executive Board a Party Leader.
+5.2 The Biennial General Meeting will
 
-5.3 All motions at the Biennial General Meeting may be passed by a simple majority of those voting. Procedures for submitting nominations and motions at the Business Meeting shall be determined by the Executive Board from time to time.
+* receive reports from the national officers (Party Leader, Treasurer and Nominating Officer)
+* elect National Officers, who will serve until the next Biennial General Meeting
+* elect members to the Executive Board, who will serve until the next Biennial General Meeting
+
+5.3 All motions at the Biennial General Meeting may be passed by a simple majority of those voting. Procedures for submitting nominations and motions at the Biennial General Meeting shall be determined by the Executive Board from time to time.
 
 5.4 The Biennial General Meeting may consider motions on Party policy, our stated values, and strategy for debate.
 
