@@ -132,7 +132,9 @@
 
 8.3 The Party Treasurer and Nominating Officer shall be elected at each Biennial Meeting by transferable ballot unless the positions are uncontested. All Party members are entitled to stand for and vote in the elections of the Party Treasurer and Nominating Officer. Nominations shall be invited from the membership at least one month in advance of the vote.
 
-8.4 The Party Treasurer and Nominating Officer will each be one of three National Officers, and may be required to submit reports to General Meetings, Biennial General Meetings or Extraordinary General meetings as appropriate.
+8.4 In the event of a vacancy to the post of Party Treasurer or Nominating Officer, the  Executive Board will appoint a Party Treasurer or Nominating Officer for a maximum period of 6 months or until an election to the post of Party Treasurer or Nominating Officer can be held if that date is earlier.
+
+8.5 The Party Treasurer and Nominating Officer will each be one of three National Officers, and may be required to submit reports to General Meetings, Biennial General Meetings or Extraordinary General meetings as appropriate.
 
 ## 9 The Party Constitution
 
