@@ -138,22 +138,20 @@ b) with at least 60% support of those voting at a General Meeting, Extraordinary
 
 c) with at least 75% support of those attending at a meeting of the Executive Board.
 
+## 10 Signatures
+
 This Constitution was agreed by the Executive Board on
-                                 	
-Signatures
 
-Party Leader                                                	Signature                             	Date
+---
 
+Party Leader / Treasurer: Raymond James Smith
 
+Date: 24/07/2016
 
+----
 
+Nominating Officer: Paul Robinson
 
-Treasurer                                                     	Signature                             	Date
+Date: 24/07/2016
 
-
-
-
-
-Nominating Officer                                      	Signature                             	Date
-
-
+----
