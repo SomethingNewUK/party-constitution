@@ -126,3 +126,20 @@
 ## Amendments to the financial scheme
 
 1.27 The registered treasurer, Raymond James Smith, will ensure that any proposed amendments to this financial scheme are submitted to the Commission for approval.
+
+
+## Signatures
+
+---
+
+Party Leader / Treasurer: Raymond James Smith
+
+Date: 24/07/2016
+
+----
+
+Nominating Officer: Paul Robinson
+
+Date: 24/07/2016
+
+----
