@@ -92,25 +92,25 @@
 
 6.7 The Executive Board may institute other offices as they see fit and appoint suitable people to those offices. Holders of these offices must be Party Members but need not necessarily be members of the Executive Board. If they are not members of the Executive Board, they will be appointed ex-officio and non-voting members of the Executive Board and will be required to report to the Executive Board.
 
-6.7 The Executive Board shall initially comprise of 3 Party members, but should expand in size to a maximum of 12 Board members as party membership grows. The size of the Executive Board is to be reviewed and agreed at each Biennial General Meeting, or may be reviewed by an Extraordinary General Meeting. The Executive Board will be elected by transferrable vote at the Biennial General Meeting of the Party. The Executive Board may co-opt additional members. Co-opted members shall not have a vote on the Executive Board.
+6.8 The Executive Board shall initially comprise of 3 Party members, but should expand in size to a maximum of 12 Board members as party membership grows. The size of the Executive Board is to be reviewed and agreed at each Biennial General Meeting, or may be reviewed by an Extraordinary General Meeting. The Executive Board will be elected by transferrable vote at the Biennial General Meeting of the Party. The Executive Board may co-opt additional members. Co-opted members shall not have a vote on the Executive Board.
 
-6.8 Elections to the Executive Board shall be conducted in accordance with rules and procedures laid down by the Executive Board from time to time.
+6.9 Elections to the Executive Board shall be conducted in accordance with rules and procedures laid down by the Executive Board from time to time.
 
-6.9 The resignation of a member of the Executive Board shall be minuted and those minutes shall be signed by the Chair of the Executive Board or secretary next to the entry relating to the resignation.
+6.10 The resignation of a member of the Executive Board shall be minuted and those minutes shall be signed by the Chair of the Executive Board or secretary next to the entry relating to the resignation.
 
-6.10 Should a vacancy on the Executive Board occur between elections, the Executive Board will seek to fill that vacancy at the next General Meeting.
+6.11 Should a vacancy on the Executive Board occur between elections, the Executive Board will seek to fill that vacancy at the next General Meeting.
 
-6.11 The Executive Board will be convened by the Party Leader and Chair who will agree a time and venue and give reasonable notice to all Executive Board Members. The quorum of the Executive Board shall be five voting members or 40% of the whole voting membership of the Executive Board, whichever is the smaller number of people.
+6.12 The Executive Board will be convened by the Party Leader and Chair who will agree a time and venue and give reasonable notice to all Executive Board Members. The quorum of the Executive Board shall be five voting members or 40% of the whole voting membership of the Executive Board, whichever is the smaller number of people.
 
-6.12 In the event that The Party employs staff or contractors, the Executive Board will appoint a suitable person as Chief Executive of the Party, who will act as the principal line manager and contract manager for the Party.
+6.13 In the event that The Party employs staff or contractors, the Executive Board will appoint a suitable person as Chief Executive of the Party, who will act as the principal line manager and contract manager for the Party.
 
-6.13 The Executive Board and its Committees will record minutes of their meetings, recommendations and decisions, which will be signed by the Chair and Party Leader.
+6.14 The Executive Board and its Committees will record minutes of their meetings, recommendations and decisions, which will be signed by the Chair and Party Leader.
 
-6.14 With the agreement of the Executive Board, candidates may stand for election for public office under a dual endorsement from secondary party. The party Executive Board would be required to ensure the manifesto and other statements to which the candidate would be required to subscribe did not conflict with the stated values of the Party.
+6.15 With the agreement of the Executive Board, candidates may stand for election for public office under a dual endorsement from secondary party. The party Executive Board would be required to ensure the manifesto and other statements to which the candidate would be required to subscribe did not conflict with the stated values of the Party.
 
-6.15 The Executive Board may approve candidates from other parties adopting the name and logo of The Party as a dual party candidacy in addition to their primary party. The party Executive Board would be required to ensure such candidates subscribed to an agreed statement in support of The Party’s aims and manifesto; and that the candidates’ primary party manifesto and other statements to which the candidate would be required to subscribe did not conflict with the aims and constitution of The Party.
+6.16 The Executive Board may approve candidates from other parties adopting the name and logo of The Party as a dual party candidacy in addition to their primary party. The party Executive Board would be required to ensure such candidates subscribed to an agreed statement in support of The Party’s aims and manifesto; and that the candidates’ primary party manifesto and other statements to which the candidate would be required to subscribe did not conflict with the aims and constitution of The Party.
 
-6.16 Local branches of Something New may be established and managed in accordance with rules published elsewhere by the Executive Board.
+6.17 Local branches of Something New may be established and managed in accordance with rules published elsewhere by the Executive Board.
 
 ## 7 The Party Leader
 
@@ -118,10 +118,9 @@
 
 7.2 The Party Leader shall be elected at each Biennial Meeting by transferable ballot unless the position is uncontested. All Party members are entitled to stand for and vote in the election of Party Leader. Nominations shall be invited from the membership at least one month in advance of the vote.
 
+7.3 In the event of a vacancy to the post of Party Leader, the  Executive Board will appoint a Party Leader for a maximum period of 6 months or until an election to the post of Party Leader can be held if that date is earlier.
 
-7.5 In the event of a vacancy to the post of Party Leader, the  Executive Board will appoint a Party Leader for a maximum period of 6 months or until an election to the post of Party Leader can be held if that date is earlier.
-
-7.6 The Party Leader will be one of three National Officers.
+7.4 The Party Leader will be one of three National Officers.
 
 ## 8 The Party Treasurer and Nominating Officer
 
