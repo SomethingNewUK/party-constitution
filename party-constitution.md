@@ -152,12 +152,18 @@ This Constitution was agreed by the Executive Board on
 
 Party Leader / Treasurer: Raymond James Smith
 
-Date: 24/07/2016
+Date: 
 
 ----
 
 Nominating Officer: Paul Robinson
 
-Date: 24/07/2016
+Date: 
+
+----
+
+Nominating Officer: Philip John
+
+Date: 
 
 ----
