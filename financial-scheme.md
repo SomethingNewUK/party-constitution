@@ -22,13 +22,13 @@
 
 ## Role of the party treasurer
 
-1.6 Alexander Hilton, the registered treasurer of Something New is responsible for the whole party’s compliance with the requirements of the Act, including the following:
+1.6 Raymond James Smith, the registered treasurer of Something New is responsible for the whole party’s compliance with the requirements of the Act, including the following:
 
 ## Annual accounts
 
 1.7 Something New will submit our annual statement of accounts to the Commission by the required date, being 30 April of the year following the end of the financial year if both our expenditure and income are under £250,000 in that year, or 7 July of the year following the end of our financial year if either our expenditure or income exceeds £250,000 in that year. We understand that if our income or expenditure exceeds £250,000 our accounts must be submitted with an auditor’s certificate.
 
-1.8 In order to comply with this requirement, Alexander Hilton has:
+1.8 In order to comply with this requirement, Raymond James Smith has:
 
 * put in place arrangements for ensuring that annual statements of accounts for the party are prepared, approved, audited where necessary and submitted to the Commission by the prescribed deadline for each register the party is on
 * put in place accounting processes capable of meeting the Act’s accounting record keeping requirements and of any regulations made by the Commission about the format of statements of accounts
@@ -42,7 +42,7 @@
 * quarter 3 (1 July – 30 September) by 30 October of that year
 * quarter 4 (1 October – 31 December) by 30 January of the following year
 
-1.10 In order to comply with this requirement, Alexander Hilton will:
+1.10 In order to comply with this requirement, Raymond James Smith will:
  
 ### For donations:
 
@@ -85,7 +85,7 @@
 
 1.15 The party will submit a campaign expenditure return if we have candidates contesting a UK Parliamentary election, European election, Scottish Parliamentary election, National Assembly of Wales election, or Northern Ireland Assembly election. The campaign expenditure return will be submitted within three months of the date of the election if our expenditure is less than £250,000 or within six months of the date of the election if our expenditure exceeds £250,000. We note that if our expenditure during the campaign exceeds £250,000 our return must be submitted with an auditor’s certificate.
 
-1.16 In order to ensure compliance with the legislation, Alexander Hilton will:
+1.16 In order to ensure compliance with the legislation, Raymond James Smith will:
 
 * ensure that campaign expenditure and claims payments are duly authorised, received and paid on time and that all relevant receipts and invoices are kept
 * put in place budgeting and monitoring arrangements to ensure that campaign expenditure is within the statutory limits
@@ -97,7 +97,7 @@
 
 ## Grants
 
-1.18 Alexander Hilton will ensure that any grants from the Commission to the party are spent in accordance with the conditions of grant imposed by the Commission. We agree to cooperate with any associated audit requirements specified by the Commission.
+1.18 Raymond James Smith will ensure that any grants from the Commission to the party are spent in accordance with the conditions of grant imposed by the Commission. We agree to cooperate with any associated audit requirements specified by the Commission.
 
 ## Changes to registered details
 
@@ -121,8 +121,8 @@
 
 ## Promoting compliance with the Act
 
-1.26 The registered treasurer, Alexander Hilton, will ensure that the registered leader and all other officers and members of Something New have sufficient knowledge of our financial obligations under the Act to ensure that the party as a whole complies with these obligations.
+1.26 The registered treasurer, Raymond James Smith, will ensure that the registered leader and all other officers and members of Something New have sufficient knowledge of our financial obligations under the Act to ensure that the party as a whole complies with these obligations.
 
 ## Amendments to the financial scheme
 
-1.27 The registered treasurer, Alexander Hilton, will ensure that any proposed amendments to this financial scheme are submitted to the Commission for approval.
+1.27 The registered treasurer, Raymond James Smith, will ensure that any proposed amendments to this financial scheme are submitted to the Commission for approval.
