@@ -143,7 +143,7 @@ a) with at least 50% support of those voting in a ballot of all Party Members.
 
 b) with at least 60% support of those voting at a General Meeting, Extraordinary General Meeting or Biennial General Meeting.
 
-c) with at least 75% support of those attending at a meeting of the Executive Board.
+c) with at least 75% support of those attending at a meeting or online vote of the Executive Board.
 
 ## 10 Signatures
 
