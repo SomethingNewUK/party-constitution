@@ -62,7 +62,7 @@
 
 5.3 All motions at the Biennial General Meeting may be passed by a simple majority of those voting. Procedures for submitting nominations and motions at the Business Meeting shall be determined by the Executive Board from time to time.
 
-5.4 The Biennial General Meeting will consider motions on Party policy, our stated values, and strategy for debate.
+5.4 The Biennial General Meeting may consider motions on Party policy, our stated values, and strategy for debate.
 
 5.5 Motions for debate at the Conference must be submitted in accordance with the procedures determined by the Executive Board from time to time.
 
