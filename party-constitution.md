@@ -114,7 +114,7 @@
 
 7.1 The Party Leader shall give political and administrative direction to the Party.
 
-7.2 The Party Leader shall be elected at each Biennial Meeting by transferable ballot unless the position is uncontested. All Party members are entitled to vote in the election of Party Leader. Candidates for Party Leader must be current elected members of the Executive Board.
+7.2 The Party Leader shall be elected at each Biennial Meeting by transferable ballot unless the position is uncontested. All Party members are entitled to stand for and vote in the election of Party Leader. Nominations shall be invited from the membership at least one month in advance of the vote.
 
 7.3 The Party Leader must appoint to the statutory positions of Party Treasurer and Nominating Officer. Holders of these offices must be Party Members but need not necessarily be members of the Executive Board. If they are not members of the Executive Board, they will be appointed ex-officio and non-voting members of the Executive Board and will be required to report to the Executive Board.
 
@@ -130,7 +130,9 @@
 
 8.2 The Party Treasurer and Nominating Officer may appoint deputies to assist them in their duties as they see fit.
 
-8.3 The Party Treasurer and Nominating Officer will each be one of three National Officers, and may be required to submit reports to General Meetings, Biennial General Meetings or Extraordinary General meetings as appropriate.
+8.3 The Party Treasurer and Nominating Officer shall be elected at each Biennial Meeting by transferable ballot unless the positions are uncontested. All Party members are entitled to stand for and vote in the elections of the Party Treasurer and Nominating Officer. Nominations shall be invited from the membership at least one month in advance of the vote.
+
+8.4 The Party Treasurer and Nominating Officer will each be one of three National Officers, and may be required to submit reports to General Meetings, Biennial General Meetings or Extraordinary General meetings as appropriate.
 
 ## 9 The Party Constitution
 
