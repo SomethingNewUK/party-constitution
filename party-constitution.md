@@ -90,9 +90,9 @@
 
 6.6 The Executive Board may establish temporary and standing Committees for the administration of the Party and the development of policy. These committees may include any suitable person, without regard to their membership of The Party or the Executive Board. Any member of the Executive Board may elect to be a member of any Committee of the Executive Board. The Party Leader may appoint any suitable person to any Committee of the Executive Board.
 
-6.7 The Executive Board may institute other offices as they see fit and appoint suitable people to those offices. Holders of these offices must be Party Members but need not necessarily be members of the Executive Board. If they are not members of the Executive Board, they will be appointed ex-officio and non-voting members of the Executive Board and will be required to report to the Executive Board.
+6.7 The Executive Board may institute other offices as they see fit and appoint suitable people to those offices. Holders of these offices must be UK resident Party Members but need not necessarily be members of the Executive Board. If they are not members of the Executive Board, they will be appointed ex-officio and non-voting members of the Executive Board and will be required to report to the Executive Board.
 
-6.8 The Executive Board shall initially comprise of 3 Party members, but should expand in size to a maximum of 12 Board members as party membership grows. The size of the Executive Board is to be reviewed and agreed at each Biennial General Meeting, or may be reviewed by an Extraordinary General Meeting. The Executive Board will be elected by transferrable vote at the Biennial General Meeting of the Party. The Executive Board may co-opt additional members. Co-opted members shall not have a vote on the Executive Board.
+6.8 The Executive Board shall initially comprise of 3 Party members, but should expand in size to a maximum of 12 Board members as party membership grows. The size of the Executive Board is to be reviewed and agreed at each Biennial General Meeting, or may be reviewed by an Extraordinary General Meeting. The Executive Board will be elected by transferrable vote at the Biennial General Meeting of the Party. Nominations will be invited at least one month before the Biennial General Meeting, and any UK resident Party member may stand. The Executive Board may co-opt additional members. Co-opted members shall not have a vote on the Executive Board.
 
 6.9 Elections to the Executive Board shall be conducted in accordance with rules and procedures laid down by the Executive Board from time to time.
 
@@ -116,7 +116,7 @@
 
 7.1 The Party Leader shall give political and administrative direction to the Party.
 
-7.2 The Party Leader shall be elected at each Biennial Meeting by transferable ballot unless the position is uncontested. All Party members are entitled to stand for and vote in the election of Party Leader. Nominations shall be invited from the membership at least one month in advance of the vote.
+7.2 The Party Leader shall be elected at each Biennial Meeting by transferable ballot unless the position is uncontested. All UK resident Party members are entitled to stand for and vote in the election of Party Leader. Nominations shall be invited from the membership at least one month in advance of the vote.
 
 7.3 In the event of a vacancy to the post of Party Leader, the  Executive Board will appoint a Party Leader for a maximum period of 6 months or until an election to the post of Party Leader can be held if that date is earlier.
 
@@ -128,7 +128,7 @@
 
 8.2 The Party Treasurer and Nominating Officer may appoint deputies to assist them in their duties as they see fit.
 
-8.3 The Party Treasurer and Nominating Officer shall be elected at each Biennial Meeting by transferable ballot unless the positions are uncontested. All Party members are entitled to stand for and vote in the elections of the Party Treasurer and Nominating Officer. Nominations shall be invited from the membership at least one month in advance of the vote.
+8.3 The Party Treasurer and Nominating Officer shall be elected at each Biennial Meeting by transferable ballot unless the positions are uncontested. All UK resident Party members are entitled to stand for and vote in the elections of the Party Treasurer and Nominating Officer. Nominations shall be invited from the membership at least one month in advance of the vote.
 
 8.4 In the event of a vacancy to the post of Party Treasurer or Nominating Officer, the  Executive Board will appoint a Party Treasurer or Nominating Officer for a maximum period of 6 months or until an election to the post of Party Treasurer or Nominating Officer can be held if that date is earlier.
 
