@@ -164,7 +164,7 @@ Date:
 
 ----
 
-Nominating Officer: Philip John
+Technology Officer: Philip John
 
 Date: 
 
