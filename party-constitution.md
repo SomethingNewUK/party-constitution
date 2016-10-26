@@ -1,3 +1,6 @@
+---
+---
+
 # Something New: Constitution
 
 ## 1 Name and constitution

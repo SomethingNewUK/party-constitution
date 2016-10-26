@@ -1,3 +1,6 @@
+---
+---
+
 # Something New: Financial scheme
 
 ## Introduction
@@ -6,7 +9,7 @@
 
 ## Constitution
 
-1.2 A copy of Something New’s [constitution](party-constitution.md), setting out our structure and organisation, and how we take decisions about the management of the party, is attached to this scheme or has been provided separately to the Electoral Commission.
+1.2 A copy of Something New’s [constitution](party-constitution), setting out our structure and organisation, and how we take decisions about the management of the party, is attached to this scheme or has been provided separately to the Electoral Commission.
 
 ## Accounting units
 
